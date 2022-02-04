@@ -1,5 +1,5 @@
 # Ercot2Influx
-Parse the Ercot status page and drop it into your InfluxDB.
+Parse the Ercot status page and drop it into your InfluxDB. Added loop for running every minute
 
 ## Usage
 
